@@ -13,7 +13,12 @@
         android:theme="@style/Theme.Simplelogin"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".presentation.WelcomeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.Simplelogin" />
+        <activity
+            android:name=".presentation.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Simplelogin">

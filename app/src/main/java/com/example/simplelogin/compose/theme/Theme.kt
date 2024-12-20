@@ -1,4 +1,4 @@
-package com.example.simplelogin.ui.theme
+package com.example.simplelogin.compose.theme
 
 import android.app.Activity
 import android.os.Build

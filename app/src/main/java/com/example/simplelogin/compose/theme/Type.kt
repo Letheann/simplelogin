@@ -1,4 +1,4 @@
-package com.example.simplelogin.ui.theme
+package com.example.simplelogin.compose.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
